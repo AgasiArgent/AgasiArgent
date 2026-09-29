@@ -31,7 +31,7 @@ Docker · Git
 ## Background
 
 Before moving into engineering I ran businesses and sales teams: founded ELK Group (services and
-e-commerce, four locations, 40+ staff), then led sales at B2B companies. That is why I start from
+e-commerce, four locations, 40+ staff), then led sales at B2B companies with ARR over $100M. That is why I start from
 how a team actually works before choosing AI, ordinary software or a process change.
 
 ## Public code

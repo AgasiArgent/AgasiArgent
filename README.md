@@ -17,8 +17,7 @@ Docker · Git
 - **Internal ERP/CRM for an import-export company (Master Bearing), 2022–2026.** Quotation
   calculations, permissions, approval workflows; integrations with Bitrix24, 1C and DataLens
   (Next.js, FastAPI, PostgreSQL/Supabase). Added an AI estimate of preliminary logistics cost:
-  the median time to a logistics price went from about three days to a few minutes. Feedback loop:
-  user reports in Linear → Codex proposes a fix → human review → release.
+  the median time to a logistics price went from about three days to a few minutes.
 - **Knowledge assistant over Confluence (PIX Robotics), 2026.** Confluence ingestion, keyword +
   vector retrieval on PostgreSQL, MCP tools, answers with citations; evaluated on held-out
   questions with model comparisons and documented answer defects.
